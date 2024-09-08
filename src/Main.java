@@ -2,8 +2,8 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-
-        System.out.printf("Hello ilknur!");
+        // Changed Name to Oguzhan Besiktepe
+        System.out.println("Hello Oguzhan Besiktepe!");
 
 
     }
